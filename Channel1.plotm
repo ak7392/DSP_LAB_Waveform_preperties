@@ -1,0 +1,2 @@
+zoom xon
+figure;plot(x(:,1));title('channel 1')
